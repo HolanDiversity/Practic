@@ -1,0 +1,11 @@
+D:\Practic\Prob1\Prob1\Prob1\bin\Debug\netcoreapp2.1\Prob1.deps.json
+D:\Practic\Prob1\Prob1\Prob1\bin\Debug\netcoreapp2.1\Prob1.runtimeconfig.json
+D:\Practic\Prob1\Prob1\Prob1\bin\Debug\netcoreapp2.1\Prob1.runtimeconfig.dev.json
+D:\Practic\Prob1\Prob1\Prob1\bin\Debug\netcoreapp2.1\Prob1.dll
+D:\Practic\Prob1\Prob1\Prob1\bin\Debug\netcoreapp2.1\Prob1.pdb
+D:\Practic\Prob1\Prob1\Prob1\obj\Debug\netcoreapp2.1\Prob1.csprojAssemblyReference.cache
+D:\Practic\Prob1\Prob1\Prob1\obj\Debug\netcoreapp2.1\Prob1.csproj.CoreCompileInputs.cache
+D:\Practic\Prob1\Prob1\Prob1\obj\Debug\netcoreapp2.1\Prob1.AssemblyInfoInputs.cache
+D:\Practic\Prob1\Prob1\Prob1\obj\Debug\netcoreapp2.1\Prob1.AssemblyInfo.cs
+D:\Practic\Prob1\Prob1\Prob1\obj\Debug\netcoreapp2.1\Prob1.dll
+D:\Practic\Prob1\Prob1\Prob1\obj\Debug\netcoreapp2.1\Prob1.pdb
